@@ -1,0 +1,19 @@
+{
+  "name": "todo-mcp",
+  "version": "0.1.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "todo-mcp": "index.js"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.13.0",
+    "sqlite3": "^5.1.7",
+    "zod": "^3.25.67"
+  }
+}
